@@ -10,7 +10,7 @@
 </div>
 <br>
 <div align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=alan2207&show_icons=true&theme=react" width = "400">
+  <img src = "https://github-readme-stats.vercel.app/api?username=alan2207&count_private=true&show_icons=true&theme=react" width = "400">
 </div>
 
 <!--
