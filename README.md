@@ -8,10 +8,6 @@
         <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
-<br>
-<div align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=alan2207&count_private=true&show_icons=true&theme=react" width = "400">
-</div>
 
 <!--
 **alan2207/alan2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
