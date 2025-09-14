@@ -1,25 +1,18 @@
-### Hi there 👋
+# Hi, I'm Alan 👋
 
-<div align = "left">
-    <a href= "https://twitter.com/alan_alickovic" target= "_blank" >
-        <img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
-    <a href= "https://www.linkedin.com/in/alan-alickovic/" target= "_blank" >
-        <img src = "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
+**React Architecture Consultant** helping companies build scalable, production-ready applications.
 
-<!--
-**alan2207/alan2207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Services
 
-Here are some ideas to get you started:
+- 📐 **Architecture Design** - React/Next.js applications from scratch
+- 🚀 **Performance** - Optimization and scaling for high-traffic applications  
+- 🔄 **Modernization** - Legacy React upgrades and refactoring
+- 🎯 **Technical Advisory** - Architecture reviews and roadmap planning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Expertise
+
+`React` `Next.js` `TypeScript` `Remix` `React Native` `Node.js` `Testing` `Performance` `Architecture`
+
+## Contact
+
+📧 alan2207@live.com | 💼 [LinkedIn](https://linkedin.com/in/alan-alickovic)
