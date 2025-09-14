@@ -6,4 +6,4 @@ React Architecture Consultant, open source maintainer, and author helping compan
 `React` `Next.js` `TypeScript` `Remix` `React Native` `Node.js` `Testing` `Performance` `Architecture`
 
 ## Contact
-📧 alan2207@live.com | 💼 LinkedIn
+📧 alan2207@live.com
